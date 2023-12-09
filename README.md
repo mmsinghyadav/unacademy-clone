@@ -4,7 +4,7 @@ This project is a clone of the Unacademy landing page created using HTML and Tai
 
 ## Demo
 
-You can see a live demo of this project [here](#https://mmsinghyadav.github.io/unacademy-landing-page-clone/unacademy/).
+You can see a live demo of this project [here](https://mmsinghyadav.github.io/unacademy-landing-page-clone/unacademy/).
 
 ## Features
 
